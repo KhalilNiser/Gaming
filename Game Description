@@ -1,0 +1,7 @@
+Hunt the Wumpus
+This project is a Python-based implementation of the classic text-based adventure game Hunt the Wumpus. The objective is simple: navigate through a series of rooms, avoid hazards like bottomless pits and super bats, and hunt the Wumpus before it hunts you.
+
+The game logic is fully built from scratch, with all mechanics implemented using core Python features. The only external library used was: Random.
+Used to handle room assignments, hazard placement, and the Wumpus's unpredictable movements, creating a dynamic and replayable experience.
+
+This project focuses on game logic, control flow, and user interaction—making it a great exercise in structuring code and handling various edge cases without the need for heavy libraries or frameworks.
